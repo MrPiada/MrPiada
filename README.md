@@ -1,7 +1,7 @@
-## Brief bio
+# Hello World 👋
+Born as a high-energy physics researcher [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1905106), over time I came to realize that software development has transitioned from being a mere tool to becoming the ultimate goal
 
-Born as a researcher in high-energy physics [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1905106), over time I realized that software development has gone from being the tool to becoming the goal. 
-I enjoy to develop and optimize algorithms and understand the ins and outs of programming languages.
+I enjoy developing and optimizing algorithms, as well as understanding the intricacies of programming languages.
 
 ### Personal interests
 * Former water polo player 🤽‍♂️, actual runner 🏃‍♂️ and cyclist 🚴‍♂️
