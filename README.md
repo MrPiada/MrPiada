@@ -7,6 +7,4 @@ Born as a high-energy physics researcher [![](https://img.shields.io/badge/INSPI
 
 ---
 
-![MrPiada's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPiada&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPiada&langs_count=12&layout=compact&exclude_repo=rba)
-
 ![](https://komarev.com/ghpvc/?username=MrPiada)
